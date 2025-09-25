@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
 package capaGrafica;
-//import capalogica.Controladora;cuando se implememntecapa persistencia
+
 import javax.swing.JOptionPane;
 
 public class CargaDatos extends javax.swing.JFrame {
