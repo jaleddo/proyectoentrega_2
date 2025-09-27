@@ -15,7 +15,7 @@ public class Docente {
 
     public Docente() {
     }
-
+//Cuando usamos los métodos getters y setters no es necesario usar el constructor de la clase.
     public Docente(String cidocete, String teldocente, String nombredocente, String apedocente, String horario, String turno, String grupo, List<Materia> listaMaterias, List<Abscentismo> ListaAbscentismo) {
         this.cidocete = cidocete;
         this.teldocente = teldocente;
@@ -101,4 +101,5 @@ public class Docente {
     }
     
     
+
 }
